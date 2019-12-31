@@ -1,3 +1,3 @@
-#Graduaion-Project
+#Graduation-Project
 - 아두이노를 사용하여 일정시간마다 xy플로터가 서랍을 열어줍니다.
 - 데이터 값을 받아와서 DB에 저장하고 웹에 띄웁니다.
